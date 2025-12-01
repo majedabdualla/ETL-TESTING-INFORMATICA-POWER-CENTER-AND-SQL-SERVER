@@ -4,8 +4,8 @@ Source: Three tables in SQL Server
 ETL Tool: Informatica PowerCenter for data extraction, transformation, and loading
 Target: A destination database where transformed data is loaded
 
-# عنوان كبير (H1)
-Key Features:
+ 
+# Key Features:
 
 Connect to SQL Server source tables
 
