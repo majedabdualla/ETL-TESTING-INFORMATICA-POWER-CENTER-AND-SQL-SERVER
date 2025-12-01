@@ -1,0 +1,22 @@
+--DATABASE and TABLES creation 
+
+CREATE DATABASE etl_testing 
+
+create table customer 
+(custid int not null primary key ,
+custname varchar(50),
+custcity varchar(50) ,
+custcountry varchar(50) 
+
+)
+
+create table cust_sales (
+custid int ,
+product_id int ,
+salesqty int )
+
+create table products 
+( productid int not null primary key ,
+productname varchar(50) ,
+productunitprice int 
+)
