@@ -5,7 +5,7 @@ ETL Tool: Informatica PowerCenter for data extraction, transformation, and loadi
 Target: A destination database where transformed data is loaded
 
  
-# Key Features:
+** Key Features:**
 
 Connect to SQL Server source tables
 
