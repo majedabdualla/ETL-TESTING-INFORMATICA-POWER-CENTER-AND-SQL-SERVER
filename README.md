@@ -13,3 +13,7 @@ Perform transformations (e.g., data cleaning, joins, calculations) in Informatic
 Load transformed data into a target database
 
 Showcase end-to-end ETL workflow
+
+
+![وصف الصورة](testing.png)
+
